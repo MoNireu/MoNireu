@@ -10,6 +10,7 @@
 **Platforms & Languages**
 <br></br>
 <a href="https://developer.apple.com/" target="_blank"><img src="https://img.shields.io/badge/Apple-222222?style=flat&logo=Apple&logoColor=FFFFFF"/></a>
+<a href="https://developer.apple.com/" target="_blank"><img src="https://img.shields.io/badge/iOS-222222?style=flat&logo=iOS&logoColor=FFFFFF"/></a>
 <a href="https://developer.apple.com/documentation/applemusicapi/" target="_blank"><img src="https://img.shields.io/badge/Apple Music-FA243C?style=flat&logo=AppleMusic&logoColor=FFFFFF"/></a>
 <br></br>
 <a href="https://www.swift.org/documentation/" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=FFFFFF"/></a>
