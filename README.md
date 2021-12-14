@@ -22,7 +22,8 @@ Tools
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=FFFFFF"/></a>
 
 
-![MoNireu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoNireu&show_icons=true&theme=slateorange)
+<!-- ![MoNireu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoNireu&show_icons=true&theme=slateorange) -->
+![MoNireu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoNireu&show_icons=true&theme=swift)
 
 
 <!--
