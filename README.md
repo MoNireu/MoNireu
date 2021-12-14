@@ -19,7 +19,8 @@
 <br></br>
 <a href="https://reactivex.io/" target="_blank"><img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=FFFFFF"/></a>
 <a href="https://firebase.google.com/docs" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=FFFFFF"/></a>
-<a href="https://docs.mongodb.com/realm/sdk/" target="_blank"><img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=FFFFFF"/></a>
+<a href="https://docs.mongodb.com/realm/sdk/" target="_blank"><img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=Realm&logoColor=FFFFFF"/></a>
+<a href="https://github.com/MoNireu" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF"/></a>
 
 
 ![MoNireu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoNireu&show_icons=true&theme=slateorange)
