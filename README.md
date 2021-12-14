@@ -7,7 +7,7 @@
 
 
 ## 🖥 Skills
-Platforms & Languages
+**Platforms & Languages**
 <br></br>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Apple-222222?style=flat&logo=Apple&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Apple Music-FA243C?style=flat&logo=AppleMusic&logoColor=FFFFFF"/></a>
@@ -15,7 +15,7 @@ Platforms & Languages
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF"/></a>
 
-Tools
+**Tools**
 <br></br>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=FFFFFF"/></a>
