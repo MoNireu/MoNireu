@@ -9,17 +9,17 @@
 ## 🖥 Skills
 **Platforms & Languages**
 <br></br>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Apple-222222?style=flat&logo=Apple&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Apple Music-FA243C?style=flat&logo=AppleMusic&logoColor=FFFFFF"/></a>
+<a href="https://developer.apple.com/" target="_blank"><img src="https://img.shields.io/badge/Apple-222222?style=flat&logo=Apple&logoColor=FFFFFF"/></a>
+<a href="https://developer.apple.com/documentation/applemusicapi/" target="_blank"><img src="https://img.shields.io/badge/Apple Music-FA243C?style=flat&logo=AppleMusic&logoColor=FFFFFF"/></a>
 <br></br>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF"/></a>
+<a href="https://www.swift.org/documentation/" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=FFFFFF"/></a>
+<a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF"/></a>
 
 **Tools**
 <br></br>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=FFFFFF"/></a>
+<a href="https://reactivex.io/" target="_blank"><img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=FFFFFF"/></a>
+<a href="https://firebase.google.com/docs" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=FFFFFF"/></a>
+<a href="https://docs.mongodb.com/realm/sdk/" target="_blank"><img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=FFFFFF"/></a>
 
 
 ![MoNireu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoNireu&show_icons=true&theme=slateorange)
