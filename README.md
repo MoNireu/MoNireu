@@ -1,5 +1,5 @@
 <a href="https://velog.io/@mo_nireu" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=Blogger&logoColor=FFFFFF"/>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/monireu.dev@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
+<a href="mailto:monireu.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/monireu.dev@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
 
 ### Hi there 👋
 
